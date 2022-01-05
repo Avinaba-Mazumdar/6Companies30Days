@@ -16,6 +16,6 @@ class Solution{
      }
 };
 
-// Two Pointer Approach
+// Two Pointer
 // TC: O(N)
 // SC: O(1)
