@@ -3,7 +3,7 @@
 <br>
 
 <details>
-<summary>__Goldman Sachs__</summary>
+<summary>**Goldman Sachs**</summary>
 1. [Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1)
 2. [Overlapping Rectangles](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1)
 3. [Count the subarrays having product less than K](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1)
@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary>__Amazon__</summary>
+<summary>**Amazon**</summary>
 1. [Maximum Profit](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1)
 2. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array)
 3. [IPL 2021 - Match Day 2](https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/)
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-<summary>__Microsoft__</summary>
+<summary>**Microsoft**</summary>
 1. [Minimum Sum Partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)
 2. [Prerequisite Tasks](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)
 3. [Rotate by 90 degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/)
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary>__Adobe__</summary>
+<summary>**Adobe**</summary>
 1. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
 2. [Longest Arithmetic Progression](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/)
 3. [Number of distict Words with k maximum contiguous vowels](https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/)
@@ -78,7 +78,7 @@
 15. [Find which version is Recent]()
 </details>
 
-<details>
+<!-- <details>
 <summary></summary>
 
 </details>
@@ -86,7 +86,7 @@
 <details>
 <summary></summary>
 
-</details>
+</details> -->
 
 <!-- ---
 ### Avinaba Mazumdar
