@@ -1,5 +1,7 @@
 ## Day 16-20 (Adobe)
 
+<img src="../adobe-logo.png">
+
 1. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
 2. [Longest Arithmetic Progression](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/)
 3. [Number of distict Words with k maximum contiguous vowels](https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/)
