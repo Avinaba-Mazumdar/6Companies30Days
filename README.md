@@ -1,5 +1,5 @@
-### ReviseWithArsh
-### 6-Companies-30-Days
+## ReviseWithArsh
+ This repo was created to take part in Arsh Goyal's `6Companies-30Days` Challenge.
 <br>
 
 1. [**GOLDMAN SACHS**](https://github.com/Avinaba-Mazumdar/6Companies30Days/tree/main/DAY%2001-05%20(Goldman%20Sachs))
