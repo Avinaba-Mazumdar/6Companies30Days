@@ -12,12 +12,16 @@
 
 
 
-<!-- ---
+
 ### Avinaba Mazumdar
+
+- LinkedIn - https://www.linkedin.com/in/avinaba-mazumdar/
+<!-- - Interviewbit -  -->
+- GeeksForGeeks - https://auth.geeksforgeeks.org/user/ajmaz57/profile
+<!-- - Coding Ninjas -  -->
+- LeetCode - https://leetcode.com/AJmaz57/
+
+<!-- 
 CodeChef - 
-CodeForces - 
-LeetCode - 
-GeeksForGeeks - 
-Coding Ninjas - 
-Interviewbit - 
---- -->
+CodeForces -  
+-->
