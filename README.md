@@ -9,11 +9,11 @@
 - [**INTUIT**](https://github.com/Avinaba-Mazumdar/6Companies30Days/tree/main/DAY%2021-25%20(Intuit))
 - [**WALMART**](https://github.com/Avinaba-Mazumdar/6Companies30Days/tree/main/DAY%2026-30%20(Walmart))
 
+<br>
+<br>
+<br>
 
-
-
-
-### Avinaba Mazumdar
+#### Connect with me
 
 - LinkedIn - https://www.linkedin.com/in/avinaba-mazumdar/
 <!-- - Interviewbit -  -->
