@@ -10,11 +10,8 @@
 - [**WALMART**](https://github.com/Avinaba-Mazumdar/6Companies30Days/tree/main/DAY%2026-30%20(Walmart))
 
 <br>
-<br>
-<br>
 
 #### Connect with me
-
 - LinkedIn - https://www.linkedin.com/in/avinaba-mazumdar/
 <!-- - Interviewbit -  -->
 - GeeksForGeeks - https://auth.geeksforgeeks.org/user/ajmaz57/profile
