@@ -1,7 +1,8 @@
 ## Day 11-15 (Microsoft)
 
-<img src="../microsoft-logo.jpg">
+<img src="../Logos/microsoft-logo.jpg">
 
+#### Problems
 1. [Minimum Sum Partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)
 2. [Prerequisite Tasks](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)
 3. [Rotate by 90 degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/)
