@@ -11,7 +11,7 @@
 
 <br>
 
-#### Connect with me
+#### My Profiles
 - LinkedIn - https://www.linkedin.com/in/avinaba-mazumdar/
 <!-- - Interviewbit -  -->
 - GeeksForGeeks - https://auth.geeksforgeeks.org/user/ajmaz57/profile
