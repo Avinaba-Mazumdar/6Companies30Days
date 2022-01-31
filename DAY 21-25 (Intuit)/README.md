@@ -1,7 +1,8 @@
 ## Day 21-25 (Intuit)
 
-<img src='../intuit-logo.png'>
+<img src='../Logos/intuit-logo.png'>
 
+#### Problems
 1. [Minimum Subset Sum Difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
 2. [Word Search](https://practice.geeksforgeeks.org/problems/word-search/1/)
 3. [Find the missing number in String](https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/)
